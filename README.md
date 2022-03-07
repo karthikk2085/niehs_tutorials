@@ -7,7 +7,7 @@ This repository contains jupyter notebooks useful for model development for clas
 ## Setup folders and google colaboratory:
 
 Download this repository and upload the unzipped folder('niehs_tutorials') under 'My Drive' in Google Drive. After you upload the
-folder under you drive, click on this (link)[https://colab.research.google.com/drive/] and go to Google Drive tab (like below). In there after you signin with your account, you should be able to see
+folder under you drive, click on this [link](https://colab.research.google.com/drive/) and go to Google Drive tab (like below). In there after you signin with your account, you should be able to see
 the two notebooks.
 
 
