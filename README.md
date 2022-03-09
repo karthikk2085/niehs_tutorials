@@ -10,7 +10,7 @@ Deep Learning Tutorials for classification and segmentation in Medical Imaging
 
 2. After downloading this repository in .zip format, unzip it using [7-zip](https://www.7-zip.org/download.html). If you or on windows you can also right click on .zip file and click on 'Extract All' button to extract the contents of this repository to your local machine and if you or on mac you can also extract the contents of this repository by double clicking on the .zip file.
 
-3. After unzipping it, user needs to change the name of this repository from ('niehs_tutorials-master') to 'niehs_tutorials'. After signing in to your google account,please upload your unzipped folder into 'My Drive' in Google Drive. This should take couple of seconds to upload.
+3. After unzipping it, user needs to change the name of this repository from ('niehs_tutorials-master') to 'niehs_tutorials'. After signing in to your google account,please upload your unzipped folder into 'My Drive' in Google Drive. This should take 5-10 minutes to upload as there's a pretrained-lung segmentation model
 
 4. After you upload this folder under your drive, go inside your folder in google drive and click on '+ New' button(![alt Text](https://github.com/karthikk2085/niehs_tutorials/blob/master/new_button.png)) on top left corner > More > make sure you are able to see Google Colaboratory in the options, if you don't see it , click on 'Connect More Apps' > Search 'colaboratory' in the search bar and install it(After installing it, you should be able to see it in the installed  apps 'Google Colaboratory').
 
